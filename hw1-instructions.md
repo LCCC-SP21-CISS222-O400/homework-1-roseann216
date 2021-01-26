@@ -15,18 +15,18 @@ You will be capturing a series of screenshots in the course of this assignment. 
 ### Create a solution and project
 When you are creating a solution within Visual Studio (VS), you will most likely want to create a project at the same time. That is the default way that VS operates, and in most cases that is completely fine. Just keep in mind that there are instances when you may want to create an empty project.
 
-- [ ] Create an empty solution in VS called "Homework1-" and your first and last name without a space (for example, I would create it as Homework1-DavidGreen). This solution should contain a project that will let you create a .NET Core-based C# console app.
-- [ ] Take a screenshot of the solution and project
-- [ ] Add a heading in the Microsoft Word document called "New solution and project screenshot" and paste in the screenshot
+- [x] Create an empty solution in VS called "Homework1-" and your first and last name without a space (for example, I would create it as Homework1-DavidGreen). This solution should contain a project that will let you create a .NET Core-based C# console app.
+- [x] Take a screenshot of the solution and project
+- [x] Add a heading in the Microsoft Word document called "New solution and project screenshot" and paste in the screenshot
 
 ### Navigating Visual Studio
 When you open a Visual Studio (VS) solution and project, a lot of windows are opened up. Each window has a purpose, and depending on what you are working on, may be extremely valuable. In addition, some of the features that might also be helpful don't display by default, so you will need to know that they exist and how to show them.
 
 As you work in VS, you may end up customising what windows are open and where, and that is great. However, sometimes, the view doens't quite work, or VS will open up a window in a place that you don't want it to be. To get things back to where they were when you first installed VS, you can reset your view.
 
-- [ ] Reset your VS window view to defaults (*hint - what menu option likely deals with VS windows?*)
-- [ ] Take a screenshot of the new VS window
-- [ ] Add a heading in the Microsoft Word document called "VS window screenshot" and paste in the screenshot
+- [x] Reset your VS window view to defaults (*hint - what menu option likely deals with VS windows?*)
+- [x] Take a screenshot of the new VS window
+- [x] Add a heading in the Microsoft Word document called "VS window screenshot" and paste in the screenshot
 
 ### Manage folders and files
 All but the most trivial C# programs involves creating multiple C# classes (and other core types) that are stored in individual files. Depending on the size of the project, you may want to organise your code into folders.
